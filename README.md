@@ -13,7 +13,7 @@ I build end-to-end ML systems from NLP pipelines and RAG agents to statistical m
 ## Currently
 - 🔬 Research Intern @ University of Victoria — Music Information Retrieval
 - 🌾 AI Systems Intern @ ICAR — Building RAG-based academic assistant for 1,000+ students
-- 🎓 ML intern @ FusionAIX(on-site, Hyd, Telangana)
+- 💼 ML intern @ FusionAIX(on-site, Hyd, Telangana)
 
 ## Featured Projects
 | Project | What it does |
