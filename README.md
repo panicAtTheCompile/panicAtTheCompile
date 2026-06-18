@@ -1,6 +1,6 @@
 # Hi, I'm Harshita 👋
+#### AI/ML Developer · NLM Systems · IIT Kharagpur 
 
-## AI/ML Developer · NLM Systems · IIT Kharagpur 
 
 I build end-to-end ML systems from NLP pipelines and RAG agents to statistical models and deployed applications.
 
