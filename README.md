@@ -11,15 +11,15 @@ I build end-to-end ML systems from NLP pipelines and RAG agents to statistical m
 - 📈 **Quant & Stats** - Monte Carlo simulation, probability modeling, financial analysis
 
 ## Currently
-- 🔬 Research Intern @ University of Victoria — Music Information Retrieval
-- 🌾 AI Systems Intern @ ICAR — Building RAG-based academic assistant for 1,000+ students
+- 🔬 Research Intern @ University of Victoria - Music Information Retrieval
+- 🌾 AI Systems Intern @ ICAR - Building RAG-based academic assistant for 1,000+ students
 - 💼 ML intern @ FusionAIX(on-site, Hyd, Telangana)
 
 ## Featured Projects
 | Project | What it does |
 |---------|-------------|
-| [Customer Review Sentiment Analyzer](https://github.com/panicAtTheCompile/Customer-Review-Sentiment-Analyzer) | NLP classifier on Amazon reviews — 88.78% accuracy |
-| [Contract Intelligence](https://github.com/panicAtTheCompile/contract-intelligence) | Legal NLP pipeline — OCR, classification, 84 languages |
+| [Customer Review Sentiment Analyzer](https://github.com/panicAtTheCompile/Customer-Review-Sentiment-Analyzer) | NLP classifier on Amazon reviews with 88.78% accuracy |
+| [Contract Intelligence](https://github.com/panicAtTheCompile/contract-intelligence) | Legal NLP pipeline, OCR, classification, 84 languages |
 | [MIR Benchmarking Study](https://github.com/panicAtTheCompile/mir-benchmarking-study) | Beat-tracking evaluation on 993 tracks (UVic Research) |
 | [Dead Heat Analysis](https://github.com/panicAtTheCompile/dead-heat-analysis) | Monte Carlo + Kelly Criterion on 500+ historical records |
 
